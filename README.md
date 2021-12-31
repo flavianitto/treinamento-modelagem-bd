@@ -10,4 +10,4 @@
 
 ## Resultado
 Abaixo um print do diagrama completo:
-<p align="center"><img width="500" alt="diagrama" src="diagrama-completo.jpg"/></p>
+<p align="center"><img width="700" alt="diagrama" src="diagrama-completo.jpg"/></p>
